@@ -1,0 +1,8 @@
+.country-container{
+    margin:20px;
+    padding:20px;
+    border-radius:5px;
+    width: 300px;
+    display: inline-block;
+    box-shadow: 5px 5px 5px lightgrey;
+}
